@@ -2,16 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thainá+Cassiano;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center"> 
-
-![Thainá stats](https://github-readme-stats.vercel.app/api?username=thainanunesf&show_icons=true&theme=radical)
-![Thainá stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thainanunesf&layout=compact&theme=radical)
-
-
- </div>
+![Snake animation](https://github.com/thainanunesf/thainanunesf/blob/output/github-contribution-grid-snake.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thainanunesf&bg_color=0d1117&color=b13583&line=b13583&point=993399&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+<a href="https://github.com/thainanunesf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainanunesf&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainanunesf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <div align="center">
