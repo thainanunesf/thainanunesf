@@ -1,6 +1,6 @@
-## Oii! Eu sou a Thainá ❤️
+## Quem sou eu 👩‍💻
 
-Atualmente estudante do Instituro Federal de Brasília no curso de Tecnologia em Sistemas para Internet.
+Oii, meu nome é Thainá, sou estudante de Tecnologia em Sistemas para Internet no Instituro Federal de Brasília, também sou criadora de repositorios com projetos legais
 
 ## 👯 Linguagens e Tecnologias
 
@@ -13,8 +13,9 @@ Atualmente estudante do Instituro Federal de Brasília no curso de Tecnologia em
 <a href = "mailto:thainacassiano19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thain%C3%A1-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-      
-      
+
+   ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
   ![octocat-1674691206253](https://user-images.githubusercontent.com/114294626/214721654-ada33732-c925-44ed-96fd-e9a6ec16f3cb.png)
 
           
