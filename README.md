@@ -6,6 +6,7 @@
 <div align="center"> 
 
 ![Thainá stats](https://github-readme-stats.vercel.app/api?username=thainanunesf&show_icons=true&theme=radical)
+![Thainá stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thainanunesf&layout=compact&theme=radical)
 
 
  </div>
