@@ -13,5 +13,6 @@
 </div>
       
       
-       ![Snake animation](https://github.com/thainanunesf/thainanunesf/blob/output/github-contribution-grid-snake.svg)   
+  ![octocat-1674691206253](https://user-images.githubusercontent.com/114294626/214721654-ada33732-c925-44ed-96fd-e9a6ec16f3cb.png)
+
           
