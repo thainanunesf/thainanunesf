@@ -11,6 +11,7 @@
 <a href = "mailto:thainacassiano19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thain%C3%A1-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-          ![octocat-1674691206253](https://user-images.githubusercontent.com/114294626/214720670-9960dd27-ec88-48ac-9c96-bfdf33b59bb7.png)
-          
+      
+      
+       ![Snake animation](https://github.com/thainanunesf/thainanunesf/blob/output/github-contribution-grid-snake.svg)   
           
