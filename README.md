@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thainá ❤️
+## Oii! Eu sou a Thainá ❤️
 
 Atualmente estudante do Instituro Federal de Brasília no curso de Tecnologia em Sistemas para Internet.
 
