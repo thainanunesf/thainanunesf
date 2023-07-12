@@ -10,8 +10,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thainanunesf&bg_color=0d1117&color=b13583&line=b13583&point=993399&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center">
